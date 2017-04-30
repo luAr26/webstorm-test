@@ -1,0 +1,21 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "description": "new test project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "lite-server",
+    "tsc": "tsc -w",
+    "gulp": "gulp"
+  },
+  "author": "Raul",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "lite-server": "^2.3.0",
+    "tsc": "^1.20150623.0"
+  }
+}
