@@ -1,4 +1,3 @@
 (function () {
-  const newConst = 'Raul';
-  console.log('works', newConst);
+  console.log('works');
 }());
